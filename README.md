@@ -16,3 +16,4 @@ Copilot yapay zekası tarafından otomatik kod tamamlama özelliğinin farklı b
 JSON dosyası üzerinde istediğiniz kelime ve veri setleri eklentilerini yaptıktan sonra, dict_to_database.py dosyasını çalıştırarak yeni bir database oluşturabilirsiniz. Bu database dosyasını, VocabularyAPP.py dosyası ile aynı dizindeki database ile değiştirerek kendi veri setleriniz üzerinde çalışabilirsiniz.
 
 NOT: Uygulama herhangi bir ticari veya estetik kaygı taşımadan, tamamen sınava yönelik pratik çalışma amacıyla geliştirilmiştir. Benzer hizmeti ücretli abonelik sistemleri ile veren uygulamalar yerine kendi uygulamamı kullanmak ve basit de olsa bir proje deneyimim olması açısından bu uygulamayı geliştirmiş bulunmaktayım.  
+ 
